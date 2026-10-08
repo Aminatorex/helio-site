@@ -1,0 +1,13 @@
+# Helio
+
+> Helio is an AI recruiting agent built on Claude by Anthropic. It runs conversational job interviews in 40+ local languages (WhatsApp, voice, SMS, web) and measures candidate potential with game-based psychometric assessments, automating high-volume hiring.
+
+- AI model: Claude (Anthropic), via the Claude API; enterprise deployments via AWS Bedrock or Google Vertex AI.
+- Uses of Claude: multilingual interviewing, adaptive follow-up questions, translation, rubric-based scoring with cited evidence.
+- Assessments: Balloon (BART, risk), Signal (Go/No-Go, attention), Split (Ultimatum game, cooperation), Pattern (matrix reasoning).
+- Humans make final hiring decisions; adverse-impact monitoring on every requisition.
+
+## Links
+- [Home](https://helio-ai.live/)
+- [Built on Claude](https://helio-ai.live/#claude)
+- [Contact](mailto:hello@helio-ai.live)
